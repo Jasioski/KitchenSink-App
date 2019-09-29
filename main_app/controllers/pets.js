@@ -1,7 +1,7 @@
 const PetSchema = require('../models/Pet.js')
 
 module.exports.controller = (app) => {
-  // fetch all movies
+  // fetch all pets
   
   /*
   app.get('/animals', (req, res) => {
