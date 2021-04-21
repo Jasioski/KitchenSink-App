@@ -23,7 +23,7 @@
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "mysql": "^2.10.2",
-    "sockjs": "^0.3.19",
+    "sockjs": "^0.3.20",
     "vue": "^2.5.2",
     "vue-d3-sunburst": "^0.2.0",
     "vue-router": "^3.0.1",
